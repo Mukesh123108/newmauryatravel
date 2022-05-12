@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newmauryatravel/static/css/main.427eaa90.css",
-    "main.js": "/newmauryatravel/static/js/main.a92e089d.js",
+    "main.js": "/newmauryatravel/static/js/main.dcbe21e8.js",
     "static/media/s1.png": "/newmauryatravel/static/media/s1.dd5ce3756213c9a2a451.png",
     "static/media/about.png": "/newmauryatravel/static/media/about.640d9b013cfba4750587.png",
     "static/media/s2.png": "/newmauryatravel/static/media/s2.9d6e9b66ab7a3626ab03.png",
@@ -20,10 +20,10 @@
     "static/media/rupee.png": "/newmauryatravel/static/media/rupee.96419fb2b3d855b8a792.png",
     "index.html": "/newmauryatravel/index.html",
     "main.427eaa90.css.map": "/newmauryatravel/static/css/main.427eaa90.css.map",
-    "main.a92e089d.js.map": "/newmauryatravel/static/js/main.a92e089d.js.map"
+    "main.dcbe21e8.js.map": "/newmauryatravel/static/js/main.dcbe21e8.js.map"
   },
   "entrypoints": [
     "static/css/main.427eaa90.css",
-    "static/js/main.a92e089d.js"
+    "static/js/main.dcbe21e8.js"
   ]
 }
