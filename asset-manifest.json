@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newmauryatravel/static/css/main.427eaa90.css",
-    "main.js": "/newmauryatravel/static/js/main.dcbe21e8.js",
+    "main.css": "/newmauryatravel/static/css/main.9bd0e777.css",
+    "main.js": "/newmauryatravel/static/js/main.7dff64e8.js",
     "static/media/s1.png": "/newmauryatravel/static/media/s1.dd5ce3756213c9a2a451.png",
     "static/media/about.png": "/newmauryatravel/static/media/about.640d9b013cfba4750587.png",
     "static/media/s2.png": "/newmauryatravel/static/media/s2.9d6e9b66ab7a3626ab03.png",
@@ -12,6 +12,7 @@
     "static/media/service3.png": "/newmauryatravel/static/media/service3.53570413bf4ba0b16b2f.png",
     "static/media/delhi.jpg": "/newmauryatravel/static/media/delhi.4ab9e3326b2cbed4f196.jpg",
     "static/media/mumbai.jpg": "/newmauryatravel/static/media/mumbai.b5699b2377d626f46b02.jpg",
+    "static/media/about-3.jpg": "/newmauryatravel/static/media/about-3.4826cefa4e77399e0bfe.jpg",
     "static/media/agra.jpg": "/newmauryatravel/static/media/agra.b0d74dc1d7d7506419d5.jpg",
     "static/media/mathura.jpg": "/newmauryatravel/static/media/mathura.cdc93baca1401e85df9e.jpg",
     "static/media/logo.gif": "/newmauryatravel/static/media/logo.cb9f0fab63a1544e8de0.gif",
@@ -19,11 +20,11 @@
     "static/media/blog1.jpg": "/newmauryatravel/static/media/blog1.1e0a80fdd4bb4f47bce6.jpg",
     "static/media/rupee.png": "/newmauryatravel/static/media/rupee.96419fb2b3d855b8a792.png",
     "index.html": "/newmauryatravel/index.html",
-    "main.427eaa90.css.map": "/newmauryatravel/static/css/main.427eaa90.css.map",
-    "main.dcbe21e8.js.map": "/newmauryatravel/static/js/main.dcbe21e8.js.map"
+    "main.9bd0e777.css.map": "/newmauryatravel/static/css/main.9bd0e777.css.map",
+    "main.7dff64e8.js.map": "/newmauryatravel/static/js/main.7dff64e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.427eaa90.css",
-    "static/js/main.dcbe21e8.js"
+    "static/css/main.9bd0e777.css",
+    "static/js/main.7dff64e8.js"
   ]
 }
